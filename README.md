@@ -1,5 +1,7 @@
 ## Office password decryptor
 
+If it works in your case :), please be good and do right.
+
 Usage:
 -----------------------------------------
 
