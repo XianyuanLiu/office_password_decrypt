@@ -1,4 +1,4 @@
-#Office password decryptor
+## Office password decryptor
 
 Usage:
 -----------------------------------------
